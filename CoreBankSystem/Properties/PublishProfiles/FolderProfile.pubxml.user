@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\VaccineSystemApi</_PublishTargetUrl>
+    <History>True|2022-06-20T10:46:06.3887949Z;True|2022-06-20T12:03:42.2451790+02:00;True|2022-06-19T14:57:47.5142871+02:00;True|2022-06-19T14:56:49.9880986+02:00;True|2022-06-19T14:41:55.2953043+02:00;False|2022-06-14T12:50:30.2192328+02:00;True|2022-06-06T11:57:31.9750865+02:00;True|2022-06-05T20:23:03.8046216+02:00;True|2022-06-05T20:21:48.1587253+02:00;</History>
+  </PropertyGroup>
+</Project>
