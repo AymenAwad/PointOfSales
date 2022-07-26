@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Application/bin/Debug/net5.0
+/Application/obj
+/Core/bin/Debug/net5.0
+/Core/obj
+/CoreBankSystem/bin/Debug/net5.0
+/CoreBankSystem/obj
+/Persistence/bin/Debug/net5.0
+/Persistence/obj
+/SettingsApp/bin/Debug/net5.0
+/SettingsApp/obj/Debug/net5.0
+/SettingsApp/obj
